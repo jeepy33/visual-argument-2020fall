@@ -1,0 +1,2 @@
+# Updates to draft
+As for updates that I made from the preview. I added the elements into the cloud as well as changing the font and border colors. I feel like the matching color text makes it stand out from the image more. The only thing that I worry about is that the elements that I added are now making the image a little too busy, and I'm worried that the text and image combined does not convey the message. 
